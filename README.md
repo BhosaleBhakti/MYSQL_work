@@ -1,1 +1,1 @@
-This is myu mysql work.
+This is my mysql work.
